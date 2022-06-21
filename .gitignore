@@ -2,5 +2,7 @@
 !*/
 !challenge*.js
 !.gitignore
+!*.md
 
 18-forkify/final/.gitignore
+18-forkify/final/README.md
