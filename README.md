@@ -10,8 +10,8 @@ I plan to revisit each challenge when I finish the whole course, so I can apply 
 | Section                                         | Status             | Finished Date   | Revisited Status | Revisited Date |
 |-------------------------------------------------|--------------------|-----------------|------------------|----------------|
 | JS Fundamentals Part 1                          | :white_check_mark: | June 18th, 2022 |                  |                |
-| JS Fundamentals Part 2                          | :construction:     |                 |                  |                |
-| Developer Skills  & Editor Setup                | :x:                |                 |                  |                |
+| JS Fundamentals Part 2                          | :white_check_mark: | June 24th, 2022 |                  |                |
+| Developer Skills  & Editor Setup                | :construction:     |                 |                  |                |
 | JavaScript in the Browser: DOM and Events       | :x:                |                 |                  |                |
 | Data Structures,  Modern Operators  and Strings | :x:                |                 |                  |                |
 | A Closer Look at Functions                      | :x:                |                 |                  |                |
