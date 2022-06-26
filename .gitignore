@@ -3,6 +3,8 @@
 !challenge*.js
 !.gitignore
 !*.md
+!.prettierrc
+/*/*/.prettierrc
 
 18-forkify/final/.gitignore
 18-forkify/final/README.md
