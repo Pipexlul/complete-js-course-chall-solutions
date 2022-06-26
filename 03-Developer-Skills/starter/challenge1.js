@@ -13,17 +13,13 @@ into sub-problems!
 "use strict";
 
 function printForecast(arr) {
-	let resultStr;
+	let resultStr = "...";
 	const arrLength = arr.length;
 
 	for (let i = 0; i < arrLength; i++) {
 		const day = i + 1;
 
-		if (i === 0) {
-			resultStr = `... ${arr[i]}°C in ${day} days ...`;
-		} else {
-			resultStr += ` ${arr[i]}°C in ${day} days ...`;
-		}
+		resultStr += ` ${arr[i]}°C in ${day} days ...`;
 	}
 
 	console.log(resultStr);
