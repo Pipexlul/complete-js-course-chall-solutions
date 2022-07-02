@@ -5,7 +5,6 @@ This repository serves as a personal tracker for my progress on Jonas Schmedtman
 - [Udemy Link] - Link to course
 
 Please keep in mind that some solutions (especially the earlier ones) are not ideal because I wanted to stick to the information the course had given me at the moment each challenge was brought up, i.e., not using functions before the course had actually taught functions.
-I plan to revisit each challenge when I finish the whole course, so I can apply all the knowledge I'll have by then with no restrictions.
 
 ## Progress
 
