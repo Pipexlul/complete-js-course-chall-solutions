@@ -13,6 +13,8 @@ fields
 /*
 Note #1: I am not done yet with all the lessons regarding this project, so I'll
 come back to add the missing parts. For now, this is only to solve the challenge.
+
+Note #2: Added highscore
 */
 
 "use strict";
@@ -26,6 +28,7 @@ const maxNumber = initialScore;
 
 let secretNumber = getSecretNumber(maxNumber);
 let score = initialScore;
+let highscore = 0;
 let gameFinished = false;
 
 const numberElem = document.querySelector(".number");
@@ -33,6 +36,7 @@ const messageElem = document.querySelector(".message");
 const buttonCheckElem = document.querySelector(".check");
 const inputElem = document.querySelector(".guess");
 const scoreElem = document.querySelector(".score");
+const highscoreElem = document.querySelector(".highscore");
 const againElem = document.querySelector(".again");
 const bodyElem = document.querySelector("body");
 
@@ -49,6 +53,13 @@ function setGameFinished(state) {
 	gameFinished = state;
 
 	numberElem.textContent = state ? secretNumber : "?";
+
+	if (state) {
+		if (score > highscore) {
+			highscore = score;
+			highscoreElem.textContent = highscore;
+		}
+	}
 }
 
 againElem.addEventListener("click", function (ev) {
