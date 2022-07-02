@@ -6,5 +6,8 @@
 !.prettierrc
 /*/*/.prettierrc
 
+!/05-Guess-My-Number/starter/index.html
+!/05-Guess-My-Number/starter/style.css
+
 18-forkify/final/.gitignore
 18-forkify/final/README.md

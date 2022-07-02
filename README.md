@@ -1,4 +1,4 @@
-# Complete JS Course's challenge solutions
+# Complete JS Course's challenges solutions
 
 This repository serves as a personal tracker for my progress on Jonas Schmedtmann's Complete JS Course on Udemy
 
@@ -9,16 +9,16 @@ I plan to revisit each challenge when I finish the whole course, so I can apply 
 
 ## Progress
 
-| Section                                       | Status             | Finished Date   | Revisited Status | Revisited Date |
-| --------------------------------------------- | ------------------ | --------------- | ---------------- | -------------- |
-| JS Fundamentals Part 1                        | :white_check_mark: | June 18th, 2022 |                  |                |
-| JS Fundamentals Part 2                        | :white_check_mark: | June 24th, 2022 |                  |                |
-| Developer Skills & Editor Setup               | :white_check_mark: | June 26th, 2022 |                  |                |
-| JavaScript in the Browser: DOM and Events     | :construction:     |                 |                  |                |
-| Data Structures, Modern Operators and Strings | :x:                |                 |                  |                |
-| A Closer Look at Functions                    | :x:                |                 |                  |                |
-| Working with Arrays                           | :x:                |                 |                  |                |
-| Object Oriented Programming (OOP)             | :x:                |                 |                  |                |
-| Asynchronous JavaScript                       | :x:                |                 |                  |                |
+| Section                                       | Status             | Finished Date   |
+| --------------------------------------------- | ------------------ | --------------- |
+| JS Fundamentals Part 1                        | :white_check_mark: | June 18th, 2022 |
+| JS Fundamentals Part 2                        | :white_check_mark: | June 24th, 2022 |
+| Developer Skills & Editor Setup               | :white_check_mark: | June 26th, 2022 |
+| JavaScript in the Browser: DOM and Events     | :white_check_mark: | July 1st, 2022  |
+| Data Structures, Modern Operators and Strings | :construction:     |                 |
+| A Closer Look at Functions                    | :x:                |                 |
+| Working with Arrays                           | :x:                |                 |
+| Object Oriented Programming (OOP)             | :x:                |                 |
+| Asynchronous JavaScript                       | :x:                |                 |
 
 [udemy link]: https://www.udemy.com/course/the-complete-javascript-course/
